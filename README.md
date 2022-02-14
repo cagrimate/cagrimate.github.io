@@ -6,3 +6,5 @@ En altta bulunan iletişim sayfasından mail adresime ulaşabilirsiniz.
 git add .
 git commit -m " duzeltme yapıldı"
 git push
+
+about me / sayfası yapılacak
